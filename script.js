@@ -1,3 +1,3 @@
 function click(){
-    alert("hello from h1");
+    alert("Kevi lagi");
 }
