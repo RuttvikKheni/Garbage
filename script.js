@@ -1,3 +1,3 @@
-function click(){
+function Click(){
     alert("Kevi lagi");
 }
